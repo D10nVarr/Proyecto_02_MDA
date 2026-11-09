@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1234,
+        "nombre": "Manuela",
+        "telefono": "12345678",
+        "correo": "mman@gmail.com",
+        "ciudad": "Toto"
+    },
+    {
+        "id": 4321,
+        "nombre": "Pedro",
+        "telefono": "12354879",
+        "correo": "lls@gmail.com",
+        "ciudad": "Quetzaltenango"
+    }
+]
